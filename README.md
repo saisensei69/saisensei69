@@ -4,7 +4,7 @@
 
 🧑‍🎓 Student Learning Mobile App Development | 🎥 Content Creator | 🚀 Lifelong Learner
 
-Learning Mobile App Development, Learning HTML/CSS/JS, Vibe Coding. Watching tutorial and tips to learn more.
+Learning Mobile App Development, Learning HTML/CSS/JS, Vibe Coding. Watching tutorials and tips to learn more.
 
 # 💫 About Me:
 🚀 About me<br><br>- 🧑‍🎓 Student<br>- 🎯 Focused on HTML, CSS, JavaScript<br>- 📚 Learning Mobile Application Development<br>- 💻 Vibe Coder<br>- 🌐 Continues Learning<br>- 🛜 Watching Tutorials, Tips
